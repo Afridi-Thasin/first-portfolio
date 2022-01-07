@@ -1,0 +1,148 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h1{
+    margin-left: 5px;
+}
+.first-letter span{
+    color: tomato;
+    margin-left: 5px;
+}
+
+
+.first-letter {
+   
+    width: 50%;
+    margin-left: 20px;
+}
+.first-letter h1{
+    border-left: solid turquoise;
+    
+}
+.first-letter p{
+    font-size: 10px;
+    font-weight: 400;
+    margin: 10px 10px;
+
+}
+.my-pic img{
+    width: 50%;
+    padding-left: 80px;
+}
+section{
+    display: flex;
+}
+.link-btn{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+p{
+    margin-left: 30px;
+}
+.mission{
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+.mission span{
+    color: rgb(228, 158, 29);
+    
+}
+.mission-text1 {
+    background-color: rgb(233, 221, 200);
+    margin-right: 20px;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+.mission-text2{
+    background-color: rgb(212, 182, 129);
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.mission-text3{
+    background-color: rgb(165, 126, 59);
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.mission-text img{
+    width: 30%;
+    margin-left: 30px;
+}
+.mission-text h2{
+    margin-left: 30px;
+}
+.mission-text p{
+    font-size: 10px;
+}
+.coding img{
+        width: 80%;
+        margin-top: 60px;
+        margin-left: 30px;
+}
+.coding{
+    width: 40%;
+}
+.coding-tex p{
+    font-size: 13px;
+}
+.coding-tex h1{
+    margin: 40px 30px;
+}
+.global-section h1{
+    margin-left: 30px;
+}
+.global-section p{
+     font-size: 12px;
+     font-weight: 300;
+}
+.global-section img{
+    width: 50%;
+    margin-left: 50px;
+}
+.application-section span{
+    color: rgb(226, 163, 46);
+}
+
+}
+
+.application-section p{
+    font-size: 13px;
+}
+.application-section h4{
+    margin-left: 20px;
+}
+.application-text{
+    width: 60%;
+    background-color: thistle;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+.application-advice{
+    width: 40%;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: brown;
+    font-size: 15px;
+}
+footer p{
+color: white;
+margin-bottom: 20px;
+}
+footer span{
+    color: rgb(126, 88, 18);
+}
